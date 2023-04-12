@@ -13,6 +13,14 @@ const Statistics = () => {
         { id: 7, name: "A-7", marks: 60 }
     ];
 
+    let total = 0;
+  for(let i = 0; i < assignmentMarks.length; i++) {
+    total += assignmentMarks[i].value;
+  }
+  const average = total / assignmentMarks.length;
+  console.log("Average value:", average);
+
+
     return (
         <div className='my-container mt-8'>
             <h1 className='mb-4 text-2xl md:text-4xl font-bold text-regalBlack text-center'>Assignment Analytics</h1>
