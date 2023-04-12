@@ -28,9 +28,10 @@ const Job = ({ job }) => {
       </div>
       <div className="flex items-center gap-3 my-2">
         <div className="flex items-center gap-2">
-          <img
-            className="object-cover w-[16px] h-[16px]"
-            src="https://i.ibb.co/mbG0Md3/Frame-4.png"
+          
+           <img
+            className="w-[16px] h-[16px]"
+            src="https://i.ibb.co/KshS4cg/Frame.png"
             alt=""
           />
           <p className="text-[15px] text-[#757575] font-semibold">{location}</p>
@@ -41,6 +42,7 @@ const Job = ({ job }) => {
             src="https://i.ibb.co/KshS4cg/Frame.png"
             alt=""
           />
+          
           <p className="text-[15px] text-[#757575] font-semibold">
             Salary: {salary}
           </p>

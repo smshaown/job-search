@@ -59,6 +59,7 @@ const JobDetails = () => {
 
           <div className="flex flex-wrap items-center mb-3 gap-1">
             <img src="https://i.ibb.co/KFXvxXZ/Frame-2.png" alt="" />
+            
             <h3 className="text-lg font-bold ">
               Phone:{" "}
               <span className="text-[#757575] text-base">{exists.phone}</span>
