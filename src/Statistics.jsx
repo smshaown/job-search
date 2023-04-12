@@ -15,7 +15,7 @@ const Statistics = () => {
 
     let total = 0;
   for(let i = 0; i < assignmentMarks.length; i++) {
-    total += assignmentMarks[i].value;
+    total += assignmentMarks[i].marks;
   }
   const average = total / assignmentMarks.length;
   console.log("Average value:", average);
