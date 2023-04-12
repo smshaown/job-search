@@ -1,9 +1,9 @@
 
-
+# b7a9-career-hub-smshaown
 
 ## Live Link
 
-Hosted in Netlify -> [jobs-hunter](https://meek-quokka-815dca.netlify.app/)
+Hosted in Netlify -> [jobSearch](https://marvelous-gelato-4d6d75.netlify.app/)
 
 # Home-Page:
 
@@ -44,4 +44,4 @@ Icon -> [Hero Icon](https://heroicons.com/)
 
 Accordion -> [React Flowbite](https://flowbite-react.com/accordion)
 # newsite
-# b7a9-career-hub-smshaown
+
