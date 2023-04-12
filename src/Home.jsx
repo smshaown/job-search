@@ -45,7 +45,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Section: Job Category List*/}
+      {/* Section: Job Category List start*/}
       <div className="mt-32 text-center">
         <h1 className="mb-4 text-2xl font-extrabold md:text-5xl text-gray-800">
           Job Category List
